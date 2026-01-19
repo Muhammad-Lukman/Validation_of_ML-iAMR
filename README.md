@@ -19,10 +19,10 @@ This repository contains the complete code, data, and results for our independen
 ## Honest Limitations Section
 
 "We acknowledge several constraints: 
-(1) Our dataset comprised 809 samples versus the paper's 987 (82% coverage), 
-(2) We utilized label encoding exclusively due to unavailability of positional SNP metadata required for one-hot encoding, 
-(3) Public dataset validation was infeasible due to format incompatibility (gene presence/absence vs. SNP matrix), 
-(4) CNN comparison was limited as FCGR encoding requires raw sequence data.
+1. Our dataset comprised 809 samples versus the paper's 987 (82% coverage),
+2. We utilized label encoding exclusively due to unavailability of positional SNP metadata required for one-hot encoding,
+3. Public dataset validation was infeasible due to format incompatibility (gene presence/absence vs. SNP matrix),
+4. CNN comparison was limited as FCGR encoding requires raw sequence data.
 
 ---
 
