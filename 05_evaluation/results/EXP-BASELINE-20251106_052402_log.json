@@ -1,0 +1,24 @@
+{
+  "experiment_id": "EXP-BASELINE-20251106_052402",
+  "timestamp": "2025-11-06T06:22:40.391884",
+  "dataset": "Giessen (label-encoded)",
+  "samples": 809,
+  "features": 60936,
+  "models": [
+    "RF",
+    "LR",
+    "SVM"
+  ],
+  "antibiotics": [
+    "CIP",
+    "CTX",
+    "CTZ",
+    "GEN"
+  ],
+  "n_folds": 5,
+  "results_summary": {
+    "total_experiments": 12,
+    "reproduced": 4,
+    "below_target": 8
+  }
+}
