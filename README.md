@@ -7,7 +7,7 @@
 
 This repository contains the complete code, data, and results for our independent reproduction and enhancement of the ML-iAMR framework ([Ren et al., 2022](https://academic.oup.com/bioinformatics/article/38/2/325/6375039)).
 
-**The Things I tried:**
+**What this repository does:**
 - First independent reproduction of ML-iAMR baseline models
 - Application of GradCAM interpretability to genomic AMR prediction
 - Statistical validation with DeLong tests and bootstrap CIs
