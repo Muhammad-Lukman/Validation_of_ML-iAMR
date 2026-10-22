@@ -16,7 +16,7 @@ This repository contains the complete code, data, and results for our independen
 
 ---
 
-## Honest Limitations Section
+## Limitations
 
 "We acknowledge several constraints: 
 1. Our dataset comprised 809 samples versus the paper's 987 (82% coverage),
